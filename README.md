@@ -21,14 +21,14 @@
 
 ![2 2](https://user-images.githubusercontent.com/91874635/166165751-a23d22ed-ce21-473c-bb69-c9334b2e9a9d.png)
 
-### 3. Abrimos git e ingresamos el comando ssh root@ y la contraseña correspondiente
+### 2. Abrimos git e ingresamos el comando ssh root@ y la contraseña correspondiente
 
 ![3 1](https://user-images.githubusercontent.com/91874635/166165832-dcf99b88-5da7-4d14-b634-b760e7f4be74.png)
 
-### 5. Con el comando *apk add docker* se instalará Docker
+### 3. Con el comando *apk add docker* se instalará Docker
 
 ![5](https://user-images.githubusercontent.com/91874635/166165873-8253f529-bfb7-4906-b529-5903e3385f8b.png)
 
-### 7. Ponemos el comando *docker run hello-world* y asi comprobaremos que Docker se ha instalado correctamente
+### 4. Ponemos el comando *docker run hello-world* y asi comprobaremos que Docker se ha instalado correctamente
 
 ![7](https://user-images.githubusercontent.com/91874635/166165891-62324e34-4f28-47e8-8763-a116e092eb08.png)
